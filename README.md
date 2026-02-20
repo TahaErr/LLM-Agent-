@@ -4,7 +4,7 @@ A **multi-agent workflow demo** built on Google Colab (with A100 GPU) simulating
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 A simulation where multiple LLM-powered agents cooperate to:
 - Gather sources,
 - Summarize findings,
@@ -12,7 +12,7 @@ A simulation where multiple LLM-powered agents cooperate to:
 
 ---
 
-## 🚀 Suggested Scenario
+##  Suggested Scenario
 **Topic Example:** *“Road anomaly detection trends for traffic safety (2023–2025).”*  
 
 **Target Outputs:**
@@ -24,7 +24,7 @@ A simulation where multiple LLM-powered agents cooperate to:
 
 ---
 
-## 🧑‍🤝‍🧑 Agents & Roles
+##  Agents & Roles
 
 ### 1. Manager (Coordinator)
 - Defines the task and acceptance criteria  
@@ -53,7 +53,7 @@ A simulation where multiple LLM-powered agents cooperate to:
 
 ---
 
-## 🔄 Orchestration Flow
+##  Orchestration Flow
 1. **Manager** sets goal + assigns tasks  
 2. **Researcher** collects findings + notes  
 3. **Writer** builds final outputs  
@@ -62,25 +62,11 @@ A simulation where multiple LLM-powered agents cooperate to:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 - ≥80% sentences backed by sources  
 - Repetition rate <10%  
 - Avg. sentence length: 12–20 words  
 - ≤3 rounds per workflow  
 - ≥3 meaningful subtopics covered  
-
----
-
-## 🖥 Demo Setup
-- **Left panel:** Agent conversations  
-- **Right panel:** Final package (summary, table, LinkedIn draft)  
-- **Buttons:** Run scenario / New topic 
-
----
-
-## 📦 Deliverables
-- Screenshot of agent dialogues  
-- Screenshot of summary + table  
-- Workflow diagram (Manager → Researcher → Writer → Critic → Manager)  
 
 ---
